@@ -1,0 +1,3 @@
+:HL["/design-landing-web-olympic-cycle/_next/static/chunks/3ev255g0tk7dh.css","style"]
+:HL["/design-landing-web-olympic-cycle/_next/static/media/fed68dff3ca987ed-s.p.3e08ior5wrhci.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":28,"slots":{"children":{"name":"eventos","param":null,"prefetchHints":12,"slots":{"children":{"name":"code","param":{"type":"d","key":"suramericanos-sante-fe-2026","siblings":null},"prefetchHints":4,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"pjwKZf1HbL2fV4B-uihKW"}
