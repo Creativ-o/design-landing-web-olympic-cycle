@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /
 
-Host: https://naowee-tech.github.io/design-landing-web-olympic-cycle
+Host: https://creativ-o.github.io/design-landing-web-olympic-cycle
