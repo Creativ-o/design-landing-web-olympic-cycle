@@ -1,4 +1,4 @@
-:HL["/design-landing-web-olympic-cycle/_next/static/chunks/3ev255g0tk7dh.css","style"]
+:HL["/design-landing-web-olympic-cycle/_next/static/chunks/2q0igljq3g0l3.css","style"]
 :HL["/design-landing-web-olympic-cycle/_next/static/media/fed68dff3ca987ed-s.p.3e08ior5wrhci.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/design-landing-web-olympic-cycle/_next/static/chunks/0d33hu3aqmw6r.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"pjwKZf1HbL2fV4B-uihKW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"t1N355kwyfcUrOsDt_HfR"}
